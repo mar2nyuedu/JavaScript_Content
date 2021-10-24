@@ -1,0 +1,10 @@
+1. Write a while loop that prints the following series:
+    2, 9, 28, 65, 126 and stops at 200
+
+hint:
+
+x will be 1, 2, 3, 4
+y will be x^3 +1, therefore, y will be 2, 9, 28, 65, 126
+
+
+2. Write the same loop using a for loop
